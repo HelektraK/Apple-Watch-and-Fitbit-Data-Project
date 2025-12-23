@@ -11,6 +11,7 @@ Apple Watch and Fitbit devices.
 **Full paper:**  
 [`paper/FitBit_Apple_Watch_Milestones.pdf`](paper/FitBit_Apple_Watch_Milestones.pdf)
 
+> Note: GitHub may not render this PDF inline. Please download to view.
 ---
 
 ## Project Overview
